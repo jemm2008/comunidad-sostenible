@@ -1,1 +1,65 @@
-/* Inserta tu codigo aqui */
+.azull{
+    outline: 2px solid rgb(1, 1, 168)
+}
+
+.verdee{
+    outline: 2px solid rgb(43, 136, 14)
+}
+
+.griss{
+    outline: 2px solid rgb(90, 87, 87)
+} 
+
+.alturitas2X{
+    min-height: 50px;
+}
+
+.tnrfont{
+    font-family: 'Times New Roman', Times, serif; font-weight: bold;
+}
+
+.tnrfont_nobold{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.fnt-sze{
+    font-size: 13px;
+}
+
+.rearimg_semilla{
+    background-image: url("../img/semilla.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    min-height: 354px;
+    color:white;
+}
+
+.rearimg_metodo{
+    background-image: url("../img/metodo.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    min-height: 400px;
+    color:white;
+}
+
+.rearimg_verde{background-image: url("../img/fondo.jpg");
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center;
+min-height: 400px;
+color:white;
+}
+
+.modifsize-120{
+    width: 120px !important;
+}
+
+.modifsize-100{
+    width: 100px !important;
+}
+
+.modifsize-80{
+    width: 50px !important;
+}
