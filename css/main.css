@@ -26,6 +26,10 @@
     font-size: 13px;
 }
 
+.fnt-sze2{
+    font-size: 13.5px;
+}
+
 .rearimg_semilla{
     background-image: url("../img/semilla.jpg");
     background-size: cover;
@@ -61,5 +65,13 @@ color:white;
 }
 
 .modifsize-80{
-    width: 50px !important;
+    width: 80px !important;
+}
+
+.modifsize-28{
+    width: 28px !important;
+}
+
+.modifsize-230{
+    width: 230px !important;
 }
